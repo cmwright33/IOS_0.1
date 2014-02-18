@@ -21,6 +21,7 @@
 		3D7174D218B2A29B007AA7CC /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3D7174B418B2A29B007AA7CC /* UIKit.framework */; };
 		3D7174DA18B2A29B007AA7CC /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 3D7174D818B2A29B007AA7CC /* InfoPlist.strings */; };
 		3D7174DC18B2A29B007AA7CC /* MyFirstApplicationTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D7174DB18B2A29B007AA7CC /* MyFirstApplicationTests.m */; };
+		3D7174E618B2F6AA007AA7CC /* 2012-10-06_15-23-38_101.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3D7174E518B2F6AA007AA7CC /* 2012-10-06_15-23-38_101.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		3D7174D718B2A29B007AA7CC /* MyFirstApplicationTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MyFirstApplicationTests-Info.plist"; sourceTree = "<group>"; };
 		3D7174D918B2A29B007AA7CC /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		3D7174DB18B2A29B007AA7CC /* MyFirstApplicationTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyFirstApplicationTests.m; sourceTree = "<group>"; };
+		3D7174E518B2F6AA007AA7CC /* 2012-10-06_15-23-38_101.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2012-10-06_15-23-38_101.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +128,7 @@
 		3D7174B718B2A29B007AA7CC /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				3D7174E518B2F6AA007AA7CC /* 2012-10-06_15-23-38_101.jpg */,
 				3D7174B818B2A29B007AA7CC /* MyFirstApplication-Info.plist */,
 				3D7174B918B2A29B007AA7CC /* InfoPlist.strings */,
 				3D7174BC18B2A29B007AA7CC /* main.m */,
@@ -229,6 +232,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3D7174E618B2F6AA007AA7CC /* 2012-10-06_15-23-38_101.jpg in Resources */,
 				3D7174C918B2A29B007AA7CC /* Images.xcassets in Resources */,
 				3D7174BB18B2A29B007AA7CC /* InfoPlist.strings in Resources */,
 				3D7174C418B2A29B007AA7CC /* Main.storyboard in Resources */,
